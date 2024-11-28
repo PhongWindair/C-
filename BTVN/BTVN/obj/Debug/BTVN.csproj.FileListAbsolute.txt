@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BTVN\BTVN\bin\Debug\BTVN.exe.config
+C:\Users\Admin\source\repos\BTVN\BTVN\bin\Debug\BTVN.exe
+C:\Users\Admin\source\repos\BTVN\BTVN\bin\Debug\BTVN.pdb
+C:\Users\Admin\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTVN\BTVN\obj\Debug\BTVN.Form1.resources
+C:\Users\Admin\source\repos\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTVN\BTVN\obj\Debug\BTVN.exe
+C:\Users\Admin\source\repos\BTVN\BTVN\obj\Debug\BTVN.pdb
